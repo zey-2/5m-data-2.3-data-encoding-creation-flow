@@ -22,8 +22,14 @@ Conceptual knowledge, refer to slides.
 
 ## Part 2 - Hands-on with data encoding, decoding and flow via RPC
 
-We will be using the `notebooks/encoding_flow_lesson.ipynb` notebook throughout this lesson.
+<!-- We will be using the following notebooks `notebooks/encoding_flow_lesson.ipynb` notebook throughout this lesson. -->
+We will be using the following notebooks for each section in this lesson:
 
-> Open the notebook in VSCode by double clicking on the file. Then select `bde` conda environment for the kernel.
->
-> Follow on with the lesson in the notebook.
+1. Apache Thrift - [`demo_thrift.ipynb`](notebooks/demo_thrift.ipynb)
+2. Protocol Buffers (Protobufs) - [`demo_protobuf.ipynb`](notebooks/demo_protobuf.ipynb)
+3. Apache Avro - [`demo_avro.ipynb`](notebooks/demo_avro.ipynb)
+4. Apache Parquet, ORC and Arrow - [`demo_parquet_orc_arrow.ipynb`](notebooks/demo_parquet_orc_arrow.ipynb)
+
+Open the notebook in VSCode by double clicking on the file. Then select `bde` conda environment for the kernel.
+
+Follow on with the lesson in the notebook.
